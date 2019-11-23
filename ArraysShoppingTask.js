@@ -4,3 +4,14 @@ var fruitVegList = ["Apples","Apricot","Artichoke","Carrots","Cabbage","Onion","
 var fruitVegShoppingList = [];
 
 // Code Below
+
+for ( var fruitVegShoppingList = []){
+
+    var shoppingList = ["Apples", "Carrots", "Potatoes"];
+for (x of shoppingList {  console.log(x);}
+
+and
+
+var fruitVegList = ["Apples","Apricot","Artichoke","Carrots","Cabbage","Onion","Oranges","Potatoes"];
+for (x of fruitVegList {  console.log(x);}
+}
